@@ -12,8 +12,6 @@
 - 🧠 Em constante transformação e evolução.
 - 🌟 Amante da criatividade, tecnologia e novos desafios.
 
----
-
 ## 💻 Tecnologias e Linguagens:
 
 <div align="center">
