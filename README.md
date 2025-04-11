@@ -1,7 +1,9 @@
-<h1 align="center">🌸 Oi, eu sou a Vick! 🌸</h1>
+<h1 align="center">🌸 Oie eu sou a VI 🌸</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;vamos codar juntos? ☕🖥️" alt="Typing SVG" />
 </p>
+
+---
 
 ## 🌷 Sobre mim:
 
