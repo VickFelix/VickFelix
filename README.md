@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Oi, eu sou a Vick! 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;Quer+tomar+um+café+e+falar+sobre+código+comigo%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;Vamos codar juntos3F" alt="Typing SVG" />
 </p>
 
 ---
