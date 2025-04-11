@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;vamos codar juntos? ☕🖥️" alt="Typing SVG" />
 </p>
 
----
-
 ## 🌷 Sobre mim:
 
 - 🌸 Estudante de Engenharia de Software na 42 Rio e Sistemas de Informação na UFF.
@@ -23,14 +21,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
 </div>
 
----
-
 ## 📬 Contato:
 
 - 🌸 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/) *(me manda seu link certinho 💖)*
 - 🌷 Portfólio (em breve!)
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
