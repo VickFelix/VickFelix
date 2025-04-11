@@ -1,6 +1,6 @@
 <h1 align="center">🌸 Oie eu sou a VI 🌸</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;vamos codar juntos? ☕🖥️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;Vamos codar juntos? ☕🖥️" alt="Typing SVG" />
 </p>
 
 ## 🌷 Sobre mim:
@@ -23,7 +23,7 @@
 
 ## 📬 Contato:
 
-- 🌸 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/) *(me manda seu link certinho 💖)*
+- 🌸 [LinkedIn](https://www.linkedin.com/in/vivianef%C3%A9lix/)
 - 🌷 Portfólio (em breve!)
 
 <p align="center">
