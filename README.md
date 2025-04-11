@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Oi, eu sou a Vick! 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Crescendo+e+me+transformando...;Aprendendo+e+me+conectando+com+o+novo!✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Transformação+é+meu+ponto+de+partida.;Curiosa,+criativa+e+em+movimento.;Construindo+com+alma+e+propósito.✨" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,21 +20,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-</div>
-
----
-
-## 📬 Contato:
-
-- 🌸 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/) *(me manda o link certinho!)*
-- 🌷 Portfólio (em breve!) 
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/dev
 
