@@ -3,11 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;Vamos codar juntos? ☕🖥️" alt="Typing SVG" />
 </p>
 
-## 🌷 Sobre mim:
+## 🔮 Sobre mim:
 
-- 🌸 Estudante de Engenharia de Software na 42 Rio e Sistemas de Informação na UFF.
-- 🎀 Exploradora do mundo da programação e da inovação!
-- 🧠 Em constante transformação e evolução.
+- 💗 Estudante de Engenharia de Software na 42 Rio e Sistemas de Informação na UFF.
+- 🐈‍⬛ Exploradora do mundo da programação e da inovação!
+- 🏞️ Em constante transformação e evolução.
 - 🌟 Amante da criatividade, tecnologia e novos desafios.
 
 ## 💻 Tecnologias e Linguagens:
@@ -23,7 +23,7 @@
 
 ## 📬 Contato:
 
-- 🌸 [LinkedIn](https://www.linkedin.com/in/vivianef%C3%A9lix/)
+- 👩‍💻 [LinkedIn](https://www.linkedin.com/in/vivianef%C3%A9lix/)
 - 🌷 Portfólio (em breve!)
 
 <p align="center">
