@@ -1,4 +1,4 @@
-<h1 align="center"> 🌷 Oi, eu sou a VI! 🌷</h1>
+<h1 align="center"> 🌷 Oi, eu sou a Vi! 🌷</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;Vamos+codar+juntos+%E2%98%95%EF%B8%8F%F0%9F%96%A5%EF%B8%8F%3F" alt="Typing SVG" />
